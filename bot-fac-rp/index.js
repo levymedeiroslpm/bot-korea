@@ -25,7 +25,7 @@ const {
 // CONFIG
 // ===============================
 
-const TOKEN = 'MTUwNzk2MTQwNTU0NTExOTgxNA.G6OG0e.xp6vvpPR5_FRafX2iZEpIR7FyZo0McZ9UlrMyE';
+const TOKEN = process.env.TOKEN;
 const CLIENT_ID = '1507961405545119814';
 const GUILD_ID = '1505576877505646702';
 
